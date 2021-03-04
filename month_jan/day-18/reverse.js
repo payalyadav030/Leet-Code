@@ -22,4 +22,4 @@ function reverse(val){
 
 }
 
-console.log(reverse("hello"))
+console.log(reverse("hello"));
